@@ -1,0 +1,200 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Informatica</title>
+</head>
+<body>
+
+<h1>Portfolio di Federico Bertolino</h1>
+<hr>
+
+<p>
+    <a href="index.html">Home</a> |
+    <a href="chi_sono.html">Chi Sono</a> |
+    <a href="sistemi.html">Sistemi e Reti</a> |
+    <a href="tpsi.html">TPSI</a> |
+    <a href="informatica.html">Informatica</a> |
+    <a href="telecomunicazioni.html">Telecomunicazioni</a>
+</p>
+<hr>
+
+<h2>Informatica</h2>
+<p>Qui trovi SOLO contenuti di Informatica.</p>
+
+<ul>
+    <li>Programmazione</li>
+    <li>Algoritmi</li>
+    <li>Progetti e esercizi</li>
+</ul>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Sistemi e Reti</title>
+</head>
+<body>
+
+<h1>Portfolio di Federico Bertolino</h1>
+<hr>
+
+<p>
+    <a href="index.html">Home</a> |
+    <a href="chi_sono.html">Chi Sono</a> |
+    <a href="sistemi.html">Sistemi e Reti</a> |
+    <a href="tpsi.html">TPSI</a> |
+    <a href="informatica.html">Informatica</a> |
+    <a href="telecomunicazioni.html">Telecomunicazioni</a>
+</p>
+<hr>
+
+<h2>Sistemi e Reti</h2>
+<p>Qui trovi SOLO contenuti di Sistemi e Reti.</p>
+
+<ul>
+    <li>Modello OSI</li>
+    <li>TCP/IP</li>
+    <li>Router e Switch</li>
+    <li>Subnetting</li>
+</ul>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Telecomunicazioni</title>
+</head>
+<body>
+
+<h1>Portfolio di Federico Bertolino</h1>
+<hr>
+
+<p>
+    <a href="index.html">Home</a> |
+    <a href="chi_sono.html">Chi Sono</a> |
+    <a href="sistemi.html">Sistemi e Reti</a> |
+    <a href="tpsi.html">TPSI</a> |
+    <a href="informatica.html">Informatica</a> |
+    <a href="telecomunicazioni.html">Telecomunicazioni</a>
+</p>
+<hr>
+
+<h2>Telecomunicazioni</h2>
+<p>Qui trovi SOLO contenuti di Telecomunicazioni.</p>
+
+<ul>
+    <li>Segnali</li>
+    <li>Modulazioni</li>
+    <li>Trasmissione dati</li>
+</ul>
+
+</body>
+</html>
+
+
+4️⃣ tpsi.html
+html
+Copia codice
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>TPSI</title>
+</head>
+<body>
+
+<h1>Portfolio di Federico Bertolino</h1>
+<hr>
+
+<p>
+    <a href="index.html">Home</a> |
+    <a href="chi_sono.html">Chi Sono</a> |
+    <a href="sistemi.html">Sistemi e Reti</a> |
+    <a href="tpsi.html">TPSI</a> |
+    <a href="informatica.html">Informatica</a> |
+    <a href="telecomunicazioni.html">Telecomunicazioni</a>
+</p>
+<hr>
+
+<h2>TPSI</h2>
+<p>Qui trovi SOLO contenuti di TPSI.</p>
+
+<ul>
+    <li>Analisi dei requisiti</li>
+    <li>Diagrammi UML</li>
+    <li>Documentazione tecnica</li>
+</ul>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Chi Sono</title>
+</head>
+<body>
+
+<h1>Portfolio di Federico Bertolino</h1>
+<hr>
+
+<p>
+    <a href="index.html">Home</a> |
+    <a href="chi_sono.html">Chi Sono</a> |
+    <a href="sistemi.html">Sistemi e Reti</a> |
+    <a href="tpsi.html">TPSI</a> |
+    <a href="informatica.html">Informatica</a> |
+    <a href="telecomunicazioni.html">Telecomunicazioni</a>
+</p>
+<hr>
+
+<h2>Chi Sono</h2>
+<p>
+    Ciao! Mi chiamo <b>Federico Bertolino</b> e sono uno studente di terza informatica...
+    (qui c’è tutta la tua presentazione già sistemata)
+</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Home - Portfolio</title>
+</head>
+<body>
+
+<h1>Portfolio di Federico Bertolino</h1>
+<hr>
+
+<p>
+    <a href="index.html">Home</a> |
+    <a href="chi_sono.html">Chi Sono</a> |
+    <a href="sistemi.html">Sistemi e Reti</a> |
+    <a href="tpsi.html">TPSI</a> |
+    <a href="informatica.html">Informatica</a> |
+    <a href="telecomunicazioni.html">Telecomunicazioni</a>
+</p>
+<hr>
+
+<h2>Home</h2>
+<p>Benvenuto! Scegli una delle aree del mio percorso scolastico:</p>
+
+<ul>
+    <li><a href="sistemi.html">Sistemi e Reti</a></li>
+    <li><a href="tpsi.html">TPSI</a></li>
+    <li><a href="informatica.html">Informatica</a></li>
+    <li><a href="telecomunicazioni.html">Telecomunicazioni</a></li>
+</ul>
+
+</body>
+</html>
