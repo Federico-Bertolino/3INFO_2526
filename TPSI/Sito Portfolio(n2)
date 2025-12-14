@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Chi Sono</title>
+    <style>
+        body {
+            background-color: rgb(179, 180, 180);
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: rgb(0, 0, 0);
+            text-align: center;
+        }
+        p {
+            color: rgb(4, 4, 7);
+        }
+        
+        .container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            justify-content: center; 
+            width: 100%; 
+        }
+        .container img {
+            width: 150px;
+            margin-right: 20px;
+        }
+        .text {
+            margin-top: 20px;
+        }
+        .text h2 {
+            color: rgb(18, 18, 22);
+        }
+        
+        .grande-scritta {
+            font-size: 50px; 
+            font-weight: bold; 
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Chi Sono</h1>
+
+    <div class="container">
+    
+        <img src="Screenshot_2025-12-14-21-08-26-88_965bbf4d18d205f782c6b8409c5773a4.jpg" alt="Federico" width="150">
+        <div class="grande-scritta">FEDERICO BERTOLINO</div>
+    </div>
+
+    <div style="text-align:center;">
+      
+        <img src="ZZZ.png" width="100" alt="Icona">
+    </div>
+
+    <div class="text">
+        <p>Mi chiamo <b>FEDERICO</b>, ho sedici anni e sono uno studente di terza informatica dell'Istituto Edoardo Agnelli di Torino. Vivo a Moncalieri, più precisamente a Testona, dove prima ho frequentato la scuola elementare Edmondo Deamicis (Borgata Palera), e poi la scuola media Raoul Follereau.</p>
+        <p>Nel corso di quegli anni (2015-2023) ho praticato diversi sport, partecipato a gruppi parrocchiali e attività scout. <br> Le mie passioni principali sono la lettura, il disegno e i videogiochi. <br> La serie che mi ha appassionato di più è "Assassin's Creed", che seguo con entusiasmo da qualche anno.</p>
+        <p>In questi tre anni trascorsi all'Istituto Agnelli, ho avuto l'opportunità di partecipare a diverse esperienze formative, tra cui i corsi su: Sicurezza, Teatro, Mindfullness, l'attivà MGS e il viaggio studio a Bristol. <br>Di seguito racconterò meglio ognuna di queste esperienze.</p>
+        
+        <h3>CORSO MINDFULNESS (2022-2023)</h3>
+        <p>Nel corso di mindfulness e meditazione in prima superiore, ho imparato a rilassarmi e a concentrarmi meglio. Le lezioni erano tranquille e ci aiutavano a stare più presenti nel momento, senza distrazioni. Abbiamo fatto diverse meditazioni guidate che mi hanno aiutato a capire come gestire lo stress e le emozioni.</p>
+        
+        <h3>CORSO DI TEATRO (2024-.....)</h3>
+        <p>Al corso di teatro scolastico, ho avuto l'opportunità di mettere in scena "Cyrano de Bergerac", un'esperienza che mi ha molto coinvolto. Interpretare i personaggi di questa celebre opera mi ha permesso di esplorare molte emozioni, come l'amore e il conflitto interiore. L'intensità dei dialoghi e la bellezza della lingua francese mi hanno spinto a migliorare le mie doti attoriali e ad affinare la mia capacità di comunicare con il corpo e la voce. Lavorare insieme ai compagni di classe, condividendo momenti di risate e difficoltà, ha creato un legame speciale. Alla fine, vedere il nostro duro lavoro prendere vita sul palco è stato un'emozione indescrivibile.</p>
+
+        <h3>CORSO SULLA SICUREZZA (2025)</h3>
+        <p>Nel corso di sicurezza, ho imparato tante cose importanti sulla prevenzione dei rischi sul lavoro. Il test finale, che ho fatto a casa, mi ha dato la possibilità di ripassare tutto quello che avevamo studiato. Il professore Marco Gamba è stato chiaro nelle spiegazioni e mi ha aiutato a capire meglio i concetti. Ho trovato interessante anche il modo pratico in cui sono stati affrontati gli argomenti, con esempi concreti. Alla fine, completare il test mi ha dato una buona soddisfazione, perché ho visto che avevo imparato davvero tanto.</p>
+          <CEnter> <h3>  ATTUALMENTE IL MIO ORARIO SCOLASTICO E' IL SEGUENTE:</h3>
+
+         <IMG SRC="Screenshot_2025-12-14-21-11-15-85_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="500"</CEnter> 
+ 
+       
+    </div>
+
+</body>
+</html>
